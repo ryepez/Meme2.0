@@ -1,7 +1,15 @@
 
-## Meme generator app
+## Meme Generator
 
-The app let you generate memes.  V2.0
+Meme Generator is a app that let the user generate memes. After the user has created a meme, he can share via email or text message.  
+
+## Installation 
+
+Clone the GitHub repository. 
+
+`$ git clone https://github.com/ryepez/Meme2.0.git`
+
+## Usage 
 
 ### Welcome Screen
 ![Screenshot](welcomeScreen.png)
